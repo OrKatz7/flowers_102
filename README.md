@@ -83,7 +83,7 @@ Module 5 — Each sub-block is connected to its previous sub-block in a skip con
 ![](docs/Aspose.Words.bd88cd54-6930-48b7-baf1-ca72d9b9e385.016.png)
 
 ![](docs/Aspose.Words.bd88cd54-6930-48b7-baf1-ca72d9b9e385.017.png)
-## Final score 0.9973
+## Final score 0.9975
 
 
 
