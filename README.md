@@ -4,7 +4,7 @@
 
 **Implementation - 2 hidden layer neural network**
 
-![](Aspose.Words.bd88cd54-6930-48b7-baf1-ca72d9b9e385.001.png)
+![](docs/Aspose.Words.bd88cd54-6930-48b7-baf1-ca72d9b9e385.001.png)
 
 **Forward function - 2 hidden layer neural network**
 
