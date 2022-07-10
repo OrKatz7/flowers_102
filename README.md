@@ -1,6 +1,6 @@
 # flowers_102
 
-# Part 1 – Aim: ANN from Scratch (40 Points)**
+# Part 1 – Aim: ANN from Scratch
 
 **Implementation - 2 hidden layer neural network**
 
@@ -29,7 +29,7 @@ Network convergence - Left: model 1 with 1 hidden layer. Right: model 2 with 2 h
 |Test AUC (Macro-average)|0.99586|0.99617|0.99620|
 ![](Aspose.Words.bd88cd54-6930-48b7-baf1-ca72d9b9e385.006.png)
 
-**Part 2 (60 points) - Aim: Practice the usage of CNN (Convolutional Neural Network).** 
+**Part 2 Aim: Practice the usage of CNN (Convolutional Neural Network).** 
 
 
 ## preprocessing process 
